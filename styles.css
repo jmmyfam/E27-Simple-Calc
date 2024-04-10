@@ -7,6 +7,7 @@ body {
 h1 {
   display: flex;
   justify-content: center;
+  text-decoration: underline;
 }
 
 #container {
@@ -36,6 +37,11 @@ h1 {
   height: 100px;
   background-color: #DF874C;
   border: 1px solid black;
+  button: 
+}
+
+.orange:hover {
+  background-color: #dfb07e;
 }
 
 .grey {
