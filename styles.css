@@ -50,6 +50,10 @@ h1 {
   height: 100px;
 }
 
+.grey:hover {
+  background-color: #ebebeb;
+}
+
 .greyL {
   font-size: 40px;
   width: 420px;
