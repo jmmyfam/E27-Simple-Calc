@@ -4,6 +4,10 @@ body {
   flex-wrap: wrap;
   justify-content: center;
 }
+h1 {
+  display: flex;
+  justify-content: center;
+}
 
 #container {
   width: 400px;
