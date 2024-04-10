@@ -28,7 +28,7 @@ body {
 .orange {
   color: white;
   font-size: 40px;
-  width: 100px;
+  min-width: 100px;
   height: 100px;
   background-color: #DF874C;
   border: 1px solid black;
@@ -42,7 +42,7 @@ body {
 
 .greyL {
   font-size: 40px;
-  width: 200px;
+  width: 420px;
   height: 100px;
 }
 
